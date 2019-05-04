@@ -8,9 +8,9 @@
 `A game is a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome` - Salen and Zimmerman
 
 Elements of a game:
-- rules
-- play
-- outcome
+- mechanics (the rules)
+- dynamics (interactions with the system)
+- aesthetics
 
 Combinatorial games:
 • finite: produce a well-defined outcome;
